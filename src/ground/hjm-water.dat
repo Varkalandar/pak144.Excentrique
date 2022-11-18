@@ -1,0 +1,18 @@
+#
+#
+# Water and outside tiles/textures for Simutrans pak144.Excentrique
+#
+# author: Hj. Malthaner
+#
+# created:  2010/10/29
+# update:   2022/11/17
+#
+#
+Obj=ground
+Name=Water
+Image[0][0]=hjm-water.0.0
+Image[1][0]=hjm-water.0.1
+Image[2][0]=hjm-water.0.2
+Image[3][0]=hjm-water.0.3
+Image[4][0]=hjm-water.0.4
+Image[5][0]=hjm-water.0.5
