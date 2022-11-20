@@ -1,0 +1,12 @@
+Obj=tree
+Name=hjm-cell_1
+copyright=HjM
+Height=0
+DistributionWeight=3
+climates=desert,tropic,mediterran,temperate,tundra
+seasons=1
+Image[0][0]=cell_1.0.0
+Image[1][0]=cell_1.0.1
+Image[2][0]=cell_1.0.2
+Image[3][0]=cell_1.0.3
+Image[4][0]=cell_1.0.4
