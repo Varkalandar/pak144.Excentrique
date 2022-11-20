@@ -16,9 +16,10 @@ OUTSIDE += src/ground
 
 DIRS144 :=
 DIRS144 += src/city
-DIRS144 += src/goods
+DIRS144 += src/industry
 DIRS144 += src/industry/music
 DIRS144 += src/way/roads
+DIRS144 += src/tree
 
 DIRS64 += src/skin
 
