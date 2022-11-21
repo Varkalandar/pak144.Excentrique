@@ -200,4 +200,5 @@ front_window_bar_color=2
 bottom_window_bar_color=0
 bottom_window_text_color = 213
 
+# half height tiles
 tile_height = 8

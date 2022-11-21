@@ -5,7 +5,6 @@
 #
 # author: Markus Pristovsek, Hj. Malthaner
 # author: Hj. Malthaner
-# author: Varkaleas <varkaleas@users.sourceforge.net>
 #
 
 # With these file, each menu/tool/toolbar can be assigned a meaning
@@ -15,8 +14,8 @@
 # dialoge tools: open a dialoge like minimap, settings, finances, ...
 # toolbar tools: open toolbars like slope tools, road tools, ...
 
-icon_width = 24
-icon_height = 24
+icon_width = 48
+icon_height = 48
 
 # FIRST SECTION: general tools
 # these tools have an icon, a cursor, and maybe a sound
