@@ -1,0 +1,31 @@
+#
+# Music transporters
+#
+# author: Hj. Malthaner
+#
+# created:  2012/01/07
+# update:   2022/11/22
+#
+obj=vehicle
+name=hjm-fanfaporter
+copyright=HjM
+waytype=track
+freight=fanfares
+payload=30
+speed=120
+cost=70000
+weight=12
+length=8
+RunningCost=7
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+EmptyImage[W]=hjm-fanfaporter.0.1
+EmptyImage[S]=hjm-fanfaporter.0.0
+EmptyImage[E]=hjm-fanfaporter.0.1
+EmptyImage[N]=hjm-fanfaporter.0.0
+EmptyImage[SE]=hjm-fanfaporter.1.0
+EmptyImage[NW]=hjm-fanfaporter.1.0
+EmptyImage[NE]=hjm-fanfaporter.0.2
+EmptyImage[SW]=hjm-fanfaporter.0.2

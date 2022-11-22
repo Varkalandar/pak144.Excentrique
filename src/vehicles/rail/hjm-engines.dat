@@ -1,0 +1,40 @@
+#
+# Rail Engines
+#
+# author: Hj. Malthaner
+#
+# created:  2012/01/07
+# update:   2022/11/22
+#
+
+obj=vehicle
+name=hjm-eggson
+copyright=HjM
+waytype=track
+freight=None
+payload=0
+speed=250
+cost=1600000
+weight=72
+length=8
+power=2100
+RunningCost=280
+# Sound=1
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+
+#
+# Cannot be grouped after another vehicle in a convoi.
+#
+Constraint[Prev][0]=none
+
+EmptyImage[W]=hjm-eggson.0.1
+EmptyImage[S]=hjm-eggson.0.0
+EmptyImage[E]=hjm-eggson.0.3
+EmptyImage[N]=hjm-eggson.0.2
+EmptyImage[SE]=hjm-eggson.1.1
+EmptyImage[NW]=hjm-eggson.1.3
+EmptyImage[NE]=hjm-eggson.1.2
+EmptyImage[SW]=hjm-eggson.1.0
