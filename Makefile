@@ -21,6 +21,8 @@ DIRS144 += src/industry/music
 DIRS144 += src/way/roads
 DIRS144 += src/way/rail
 DIRS144 += src/tree
+DIRS144 += src/vehicles/rail
+DIRS144 += src/vehicles/rail/music
 
 DIRS64 += src/skin
 
