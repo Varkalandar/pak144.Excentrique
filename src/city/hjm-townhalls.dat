@@ -1,0 +1,24 @@
+#
+# Townhalls for Simutrans pak144.Excentrique
+#
+# Hj. Malthaner
+#
+# created:  2010/11/04
+# update:   2022/11/23
+#
+#
+Obj=building
+Name=hjm-townhall
+Type=tow
+Build_Time=0
+Passengers=76
+needs_ground=0
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+copyright=HjM
+climates=desert, tropic, mediterran, temperate, tundra, rocky
+BackImage[0][0][0][0][0][0]=hjm-townhall.0.0
+BackImage[0][0][0][0][0][1]=hjm-townhall.0.0
+-----------------------
