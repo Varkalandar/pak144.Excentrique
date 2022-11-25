@@ -3,8 +3,8 @@
 #
 # author: Hj. Malthaner
 #
-# created:  ???
-# update:   2010/11/04
+# created:  2010/11/04
+# update:   2022/11/25
 #
 #
 # List of industrial buildings
@@ -39,7 +39,7 @@ Obj=building
 Name=03_IND
 copyright=HjM
 Type=ind
-Level=4
+Level=3
 intro_year=1
 intro_month=1
 retire_year=5460
@@ -51,7 +51,7 @@ Obj=building
 Name=04_IND
 copyright=HjM
 Type=ind
-Level=5
+Level=4
 intro_year=1
 intro_month=1
 retire_year=5460
@@ -63,7 +63,7 @@ Obj=building
 Name=05_IND
 copyright=HjM
 Type=ind
-Level=6
+Level=5
 intro_year=1
 intro_month=1
 retire_year=5460
@@ -75,71 +75,45 @@ Obj=building
 Name=06_IND
 copyright=HjM
 Type=ind
-Level=1
+Level=6
 needs_ground=1
 intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ringthing.0.0
-BackImage[0][0][0][0][0][1]=hjm-ringthing.0.0
+BackImage[0][0][0][0][0][0]=hjm-sparksphere.0.0
+BackImage[0][0][0][0][0][1]=hjm-sparksphere.0.0
 -----------------------
 Obj=building
 Name=07_IND
 copyright=HjM
 Type=ind
-Level=2
+Level=7
 needs_ground=1
 intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ringthing.0.1
-BackImage[0][0][0][0][0][1]=hjm-ringthing.0.1
+BackImage[0][0][0][0][0][0]=hjm-sparksphere.0.1
+BackImage[0][0][0][0][0][1]=hjm-sparksphere.0.1
 -----------------------
 Obj=building
 Name=08_IND
 copyright=HjM
 Type=ind
-Level=3
+Level=8
 intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ringthing.0.2
-BackImage[0][0][0][0][0][1]=hjm-ringthing.0.2
------------------------
-Obj=building
-Name=09_IND
-copyright=HjM
-Type=ind
-Level=4
-intro_year=1
-intro_month=1
-retire_year=5460
-retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ringthing.0.3
-BackImage[0][0][0][0][0][1]=hjm-ringthing.0.3
------------------------
-Obj=building
-Name=10_IND
-copyright=HjM
-Type=ind
-Level=5
-intro_year=1
-intro_month=1
-retire_year=5460
-retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ringthing.0.4
-BackImage[0][0][0][0][0][1]=hjm-ringthing.0.4
-# BackImage[0][0][0][1][0][0]=hjm-ringthing.0.4
-# BackImage[0][0][0][1][0][1]=hjm-ringthing.0.4
+BackImage[0][0][0][0][0][0]=hjm-sparksphere.0.2
+BackImage[0][0][0][0][0][1]=hjm-sparksphere.0.2
 -----------------------
 Obj=building
 Name=11_IND
 copyright=HjM
 Type=ind
-Level=4
+Level=9
 intro_year=1
 intro_month=1
 retire_year=5460
@@ -153,7 +127,7 @@ Obj=building
 Name=12_IND
 copyright=HjM
 Type=ind
-Level=5
+Level=10
 intro_year=1
 intro_month=1
 retire_year=5460
@@ -167,7 +141,7 @@ Obj=building
 Name=13_IND
 copyright=HjM
 Type=ind
-Level=6
+Level=11
 intro_year=1
 intro_month=1
 retire_year=5460
