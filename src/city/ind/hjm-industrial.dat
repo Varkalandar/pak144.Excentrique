@@ -44,8 +44,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ind_1.0.2
-BackImage[0][0][0][0][0][1]=hjm-ind_1.0.2
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.2
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.2
 -----------------------
 Obj=building
 Name=04_IND
@@ -56,8 +56,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ind_1.0.3
-BackImage[0][0][0][0][0][1]=hjm-ind_1.0.3
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.3
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.3
 -----------------------
 Obj=building
 Name=05_IND
@@ -68,8 +68,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ind_1.0.4
-BackImage[0][0][0][0][0][1]=hjm-ind_1.0.4
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.4
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.4
 -----------------------
 Obj=building
 Name=06_IND
@@ -110,7 +110,7 @@ BackImage[0][0][0][0][0][0]=hjm-sparksphere.0.2
 BackImage[0][0][0][0][0][1]=hjm-sparksphere.0.2
 -----------------------
 Obj=building
-Name=11_IND
+Name=09_IND
 copyright=HjM
 Type=ind
 Level=9
@@ -124,7 +124,7 @@ BackImage[0][0][0][0][0][0]=hjm-ind-powertower.1.0
 BackImage[0][0][0][0][0][1]=hjm-ind-powertower.1.0
 -----------------------
 Obj=building
-Name=12_IND
+Name=10_IND
 copyright=HjM
 Type=ind
 Level=10
@@ -138,7 +138,7 @@ BackImage[0][0][0][0][0][0]=hjm-ind-powertower.1.1
 BackImage[0][0][0][0][0][1]=hjm-ind-powertower.1.1
 -----------------------
 Obj=building
-Name=13_IND
+Name=11_IND
 copyright=HjM
 Type=ind
 Level=11
