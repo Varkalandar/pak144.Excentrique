@@ -17,8 +17,8 @@ InputGood[2]=fanfares
 InputCapacity[2]=150
 InputFactor[2]=200
 
-#OutputGood[0]=tunes
-#OutputCapacity[0]=120
+OutputGood[0]=tunes
+OutputCapacity[0]=120
 
 MapColor=37
 pax_level=30
