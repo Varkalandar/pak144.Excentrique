@@ -38,8 +38,8 @@ Image[SE]=hjm-enerrail.2.1
 Image[NW]=hjm-enerrail.2.3
 Image[SW]=hjm-enerrail.2.2
 # hangtyp * animation
-ImageUp[3]=hjm-enerrail.1.1
-ImageUp[6]=hjm-enerrail.1.0
-ImageUp[9]=hjm-enerrail.1.2
-ImageUp[12]=hjm-enerrail.1.3
+ImageUp[3]=hjm-enerrail.1.3
+ImageUp[6]=hjm-enerrail.1.2
+ImageUp[9]=hjm-enerrail.1.0
+ImageUp[12]=hjm-enerrail.1.1
 -----------------------

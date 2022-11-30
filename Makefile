@@ -21,11 +21,12 @@ DIRS144 += src/city/com
 DIRS144 += src/city/ind
 DIRS144 += src/industry
 DIRS144 += src/industry/music
-DIRS144 += src/roads
+DIRS144 += src/road
 DIRS144 += src/rail
 DIRS144 += src/rail/vehicles
 DIRS144 += src/rail/vehicles/music
 DIRS144 += src/tree
+DIRS144 += src/misc
 
 DIRS64 += src/skin
 

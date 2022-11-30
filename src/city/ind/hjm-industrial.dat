@@ -19,8 +19,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ind_1.0.0
-BackImage[0][0][0][0][0][1]=hjm-ind_1.0.0
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.2
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.2
 -----------------------
 Obj=building
 Name=02_IND
@@ -32,8 +32,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-ind_1.0.1
-BackImage[0][0][0][0][0][1]=hjm-ind_1.0.1
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.3
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.3
 -----------------------
 Obj=building
 Name=03_IND
@@ -44,8 +44,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-nucleus.0.2
-BackImage[0][0][0][0][0][1]=hjm-nucleus.0.2
+BackImage[0][0][0][0][0][0]=hjm-tokamak.0.1
+BackImage[0][0][0][0][0][1]=hjm-tokamak.0.1
 -----------------------
 Obj=building
 Name=04_IND
@@ -56,8 +56,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-nucleus.0.3
-BackImage[0][0][0][0][0][1]=hjm-nucleus.0.3
+BackImage[0][0][0][0][0][0]=hjm-nucleus.0.4
+BackImage[0][0][0][0][0][1]=hjm-nucleus.0.4
 -----------------------
 Obj=building
 Name=05_IND
@@ -68,8 +68,8 @@ intro_year=1
 intro_month=1
 retire_year=5460
 retire_month=1
-BackImage[0][0][0][0][0][0]=hjm-nucleus.0.4
-BackImage[0][0][0][0][0][1]=hjm-nucleus.0.4
+BackImage[0][0][0][0][0][0]=hjm-tokamak.0.2
+BackImage[0][0][0][0][0][1]=hjm-tokamak.0.2
 -----------------------
 Obj=building
 Name=06_IND
