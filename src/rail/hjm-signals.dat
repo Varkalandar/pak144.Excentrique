@@ -1,0 +1,42 @@
+#
+#
+# Railroad signals for Simutrans pak144.Excentrique
+#
+# author: Hj. Malthaner
+#
+# created:  2012/01/09
+# update:   2012/01/12
+#
+# image order S, N, E, W, first red, then green, then yellow (for presignal)
+# repeat (optionally) for electrification
+#
+#
+# normal signal
+obj=roadsign
+copyright=HjM
+name=hjm-force_gate
+waytype=track
+cost=750
+is_signal=1
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+Image[0]=hjm-signals.0.0
+Image[1]=hjm-signals.0.1
+Image[2]=hjm-signals.0.2
+Image[3]=hjm-signals.0.3
+Image[4]=hjm-signals.0.4
+Image[5]=hjm-signals.0.5
+Image[6]=hjm-signals.0.6
+Image[7]=hjm-signals.0.7
+#Image[8]=hjm-signals.0.0
+#Image[9]=hjm-signals.0.1
+#Image[10]=hjm-signals.0.2
+#Image[11]=hjm-signals.0.3
+#Image[12]=hjm-signals.0.4
+#Image[13]=hjm-signals.0.5
+#Image[14]=hjm-signals.0.6
+#Image[15]=hjm-signals.0.7
+Icon=> hjm-signals.0.12
+Cursor=hjm-signals.0.13
