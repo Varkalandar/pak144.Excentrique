@@ -1,0 +1,42 @@
+#
+# Road depots for Simutrans pak144.Excentrique
+#
+# Author: Hj. Malthaner
+#
+# Created:  2010/11/04
+# Update:   2022/12/05
+#
+#
+# climates: desert, tropic, mediterran, temperate, tundra, rocky
+# BackImage[Layout][x Position][y Position][Height][Phase]
+# FrontImage[Layout][x Position][y Position][Height][Phase]
+#
+Obj=building
+Name=hjm-car-depot
+type=depot
+waytype=road
+# must be 1*1
+level=1
+Dims=1,1,4
+NoInfo=1
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+icon=> hjm-coildepot.1.0
+cursor=hjm-coildepot.1.1
+# summer
+BackImage[0][0][0][0][0][0]=hjm-coildepot.0.2
+BackImage[1][0][0][0][0][0]=hjm-coildepot.0.0
+FrontImage[0][0][0][0][0][0]=hjm-coildepot.0.3
+FrontImage[1][0][0][0][0][0]=hjm-coildepot.0.1
+FrontImage[2][0][0][0][0][0]=hjm-coildepot.1.3
+FrontImage[3][0][0][0][0][0]=hjm-coildepot.1.2
+# winter
+BackImage[0][0][0][0][0][1]=hjm-coildepot.0.2
+BackImage[1][0][0][0][0][1]=hjm-coildepot.0.0
+FrontImage[0][0][0][0][0][1]=hjm-coildepot.0.3
+FrontImage[1][0][0][0][0][1]=hjm-coildepot.0.1
+FrontImage[2][0][0][0][0][1]=hjm-coildepot.1.3
+FrontImage[3][0][0][0][0][1]=hjm-coildepot.1.2
+-----------------------
