@@ -22,6 +22,7 @@ DIRS144 += src/city/ind
 DIRS144 += src/industry
 DIRS144 += src/industry/music
 DIRS144 += src/road
+DIRS144 += src/road/vehicles
 DIRS144 += src/rail
 DIRS144 += src/rail/vehicles
 DIRS144 += src/rail/vehicles/music
