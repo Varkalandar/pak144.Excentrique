@@ -18,8 +18,8 @@ intro_month=1
 retire_year=5460
 retire_month=1
 # skin
-icon=> hjm-powertrail.0.3
-cursor=hjm-powertrail.0.3
+icon=> hjm-powertrail.4.0
+cursor=hjm-powertrail.4.1
 # rbis * animation
 Image[-]=hjm-powertrail.0.3
 Image[N]=hjm-powertrail.3.4
