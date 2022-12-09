@@ -1,0 +1,40 @@
+#
+# Dolphin car
+#
+# author: Hj. Malthaner
+#
+# created:  ???
+# update:   2022/12/07
+#
+
+obj=vehicle
+name=hjm-dolphincar
+copyright=HjM
+waytype=road
+freight=Passagiere
+payload=50
+speed=80
+cost=160000
+weight=30
+length=8
+power=500
+RunningCost=120
+# Sound=1
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+
+#
+# Cannot be grouped after another vehicle in a convoi.
+#
+Constraint[Prev][0]=none
+
+EmptyImage[W]=hjm-dolphin.0.1
+EmptyImage[S]=hjm-dolphin.0.0
+EmptyImage[E]=hjm-dolphin.0.3
+EmptyImage[N]=hjm-dolphin.0.2
+EmptyImage[SE]=hjm-dolphin.1.3
+EmptyImage[NW]=hjm-dolphin.1.1
+EmptyImage[NE]=hjm-dolphin.1.2
+EmptyImage[SW]=hjm-dolphin.1.0
