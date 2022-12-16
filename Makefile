@@ -19,6 +19,7 @@ DIRS144 += src/city
 DIRS144 += src/city/res
 DIRS144 += src/city/com
 DIRS144 += src/city/ind
+DIRS144 += src/city/pedestrians
 DIRS144 += src/industry
 DIRS144 += src/industry/music
 DIRS144 += src/road
@@ -27,6 +28,8 @@ DIRS144 += src/rail
 DIRS144 += src/rail/vehicles
 DIRS144 += src/rail/vehicles/music
 DIRS144 += src/tree
+DIRS144 += src/decoration
+DIRS144 += src/curiosities
 DIRS144 += src/misc
 
 DIRS64 += src/skin
