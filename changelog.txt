@@ -1,0 +1,15 @@
+r005
+
+- Two new magnatrack vehicles for sparks and quants (passengers and mail)
+- Three new magnatrack engines
+- Fixed some lightmap (landscape) gaps
+- Fixed ground grid
+- Crystal splinter plants have shadows now
+- Added one more residental city building
+- New, high res inspection tool cursor
+- New, high res schedule stop marker
+- New, high res raise and lower landscape cursors
+- Added some missing language entries (English and German)
+
+r004 and before
+- no changes tracked
