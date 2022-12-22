@@ -1,0 +1,56 @@
+#
+# Passenger and mail cars
+#
+# author: Hj. Malthaner
+#
+# created:  2012/01/07
+# update:   2022/11/22
+#
+obj=vehicle
+name=hjm-sparkporter
+copyright=HjM
+waytype=track
+freight=Passagiere
+payload=50
+speed=120
+cost=10000
+weight=12
+length=8
+RunningCost=7
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+EmptyImage[W]=hjm-sparkporter.0.1
+EmptyImage[S]=hjm-sparkporter.0.0
+EmptyImage[E]=hjm-sparkporter.0.1
+EmptyImage[N]=hjm-sparkporter.0.0
+EmptyImage[SE]=hjm-sparkporter.1.0
+EmptyImage[NW]=hjm-sparkporter.1.0
+EmptyImage[NE]=hjm-sparkporter.0.2
+EmptyImage[SW]=hjm-sparkporter.0.2
+-----------------------
+obj=vehicle
+name=hjm-quantcontainer
+copyright=HjM
+waytype=track
+freight=Post
+payload=30
+speed=120
+cost=10000
+weight=12
+length=8
+RunningCost=7
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+EmptyImage[W]=hjm-quantcontainer.0.1
+EmptyImage[S]=hjm-quantcontainer.0.0
+EmptyImage[E]=hjm-quantcontainer.0.1
+EmptyImage[N]=hjm-quantcontainer.0.0
+EmptyImage[SE]=hjm-quantcontainer.1.0
+EmptyImage[NW]=hjm-quantcontainer.1.0
+EmptyImage[NE]=hjm-quantcontainer.0.2
+EmptyImage[SW]=hjm-quantcontainer.0.2
+-----------------------
