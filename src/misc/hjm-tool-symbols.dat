@@ -4,21 +4,26 @@
 # Author: Hj. Malthaner
 #
 # Created:  ???
-# Update:   2022/12/09
+# Update:   2022/12/21
 #
 Obj=cursor
 name=GeneralTools
-Image[0]=wkz_cursors.0.0
+## Inspection tool
+Image[0]=hjm-tool-symbols.0.4
+## Remover
 Image[1]=hjm-tool-symbols.0.1,0,-7
-Image[2]=wkz_cursors.0.2
-Image[3]=wkz_cursors.0.3
+## Landscape up
+Image[2]=hjm-tool-symbols.0.6
+## Landscape down
+Image[3]=hjm-tool-symbols.0.5
 Image[4]=wkz_cursors.0.4
 Image[5]=wkz_cursors.0.5
 Image[6]=wkz_cursors.0.6
 Image[7]=wkz_cursors.0.7
 Image[8]=wkz_cursors.0.8
 Image[9]=wkz_cursors.0.9
-Image[10]=wkz_cursors.1.0
+# Schedule stop marker
+Image[10]=hjm-tool-symbols.0.3
 Image[11]=wkz_cursors.1.1
 Image[12]=wkz_cursors.1.2
 -----------------------
@@ -32,5 +37,5 @@ Image[0]=hjm-tool-symbols.1.0
 -----------------------
 Obj=cursor
 Name=Mouse
-Image[0]=> hjm-tool-symbols.0.3
+Image[0]=> hjm-tool-symbols.0.0
 -----------------------
