@@ -41,7 +41,7 @@ Image[5][0]=hjm-earth_1.0.0
 # rocky/barren
 Image[6][0]=hjm-earth_2.0.0
 # snow
-Image[7][0]=hjm-snow_3.0.0
+Image[7][0]=hjm-snow_grey.0.0
 -----------------------
 # these images define the beach transition
 Obj=ground
