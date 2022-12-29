@@ -7,7 +7,7 @@ MAKEOBJ ?= ./makeobj
 DESTDIR  ?= .
 PAKDIR   ?= $(DESTDIR)/pak144.Excentrique
 ADDONDIR ?= $(DESTDIR)/addons/pak144.Excentrique
-PAKVERSION ?= 05
+PAKVERSION ?= 06
 DESTFILE ?= pak144.Excentrique_v0$(PAKVERSION)
 INSTALL ?= ../../simutrans/pak144.Excentrique
 
@@ -25,6 +25,7 @@ DIRS144 += src/industry/music
 DIRS144 += src/road
 DIRS144 += src/road/vehicles
 DIRS144 += src/rail
+DIRS144 += src/rail/bridges
 DIRS144 += src/rail/vehicles
 DIRS144 += src/rail/vehicles/music
 DIRS144 += src/tree

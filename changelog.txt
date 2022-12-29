@@ -1,3 +1,13 @@
+r006
+
+- Two more residential city buildings
+- A new magnatrack bridge
+- New, high speed magnatrack
+- New, high speed powertrail
+- Added a new tree object
+- Fixed some lightmap (landscape) gaps
+- Changed the snow texture to "bleach zone"
+
 r005
 
 - Two new magnatrack vehicles for sparks and quants (passengers and mail)
@@ -5,7 +15,7 @@ r005
 - Fixed some lightmap (landscape) gaps
 - Fixed ground grid
 - Crystal splinter plants have shadows now
-- Added one more residental city building
+- Added one more residential city building
 - New, high res inspection tool cursor
 - New, high res schedule stop marker
 - New, high res raise and lower landscape cursors
