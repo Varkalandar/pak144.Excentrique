@@ -1,12 +1,10 @@
 #
-#
-# Magnatrack bridges for Simutrans pak48.Excentrique
+# Magnatrack bridges for Simutrans pak144.Excentrique
 #
 # author: Hj. Malthaner
 #
 # created:  2022/12/27
 # update:   2022/12/27
-#
 #
 Obj=bridge
 name=hjm-magnatrack_bridge
