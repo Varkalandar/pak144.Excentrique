@@ -139,14 +139,14 @@ A towerlike structure, sparkling from high energy.
 #____________________________________factory____________________________________
 #____________________________________factory____________________________________
 hjm-beatfab
-Beatfab
+Beat Factory
 hjm-fanfostar
 Fanfostar
 hjm-sounder
-City sounder
-hjm-organ
-Aureal melody maker
-vks-orchestra
+City Sounder
+hjm-melodium
+Aureal Melody Maker
+hjm-symphonium
 Symphonium
 hjm-proto_sun
 Proto Sun
@@ -220,16 +220,6 @@ hjm-menger_sponge_l3
 Level 3 Menger Sponge\n\nA metallic cube which has formed by chance in a carved, fractal-like structure.
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
-vks-sybill_starleaf
-Sybill Starleaf\n\nThe rare Sybill Starleaf flowers only twice in its lifetime. But very impressively when it does.\n
-hjm-orangecherry
-Glittercherry Tree\n\nA medium tall sort of tree, with a wide crown. Crystal candy cherries glitter between the leaves. Your dentist has warned you!\n
-Tree1
-Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
-Tree2
-Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
-Tree3
-Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
 hjm-bluespike
 Bluespike\n\nThe bluespike is a crystal growth, that seems to be here, what plants are in other places.\n
 hjm-spire
@@ -242,6 +232,10 @@ hjm-ochre_spots
 Mineralic, ochre spots.\n
 hjm-mushroom_patch_1
 A patch of small mushrooms.\n
+hjm-rainbow_jewel
+Rainbow Jewel\n
+hjm-cell_1
+Large Cottoncandy Bush\n
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 #____________________________________vehicle____________________________________
@@ -266,6 +260,8 @@ hjm-eggson
 Renaht Eggson
 hjm-meloporter
 Renaht Melody Car
+hjm-troubador
+Renaht Music Carrier
 hjm-powernut
 Renaht Powernut
 hjm-sparkporter
@@ -276,7 +272,7 @@ hjm-sunbringer
 Zeus Sundisc
 #______________________________________way______________________________________
 #______________________________________way______________________________________
-hjm-powertrack
+hjm-powertrail
 Power Trail\n\nMade from blue-red metal, the power trail can lift vehicles up in the air and move them forward. Traffic doesn't flow left and right here, but in two height levels.
 hjm-powertrack_speedlane
 Powertrail Speedlane

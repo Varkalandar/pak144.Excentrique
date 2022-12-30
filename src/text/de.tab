@@ -92,9 +92,9 @@ hjm-fanfostar
 Fanfarenstar
 hjm-sounder
 Stadtmusikus
-hjm-organ
-Himmelsorgel
-vks-orchestra
+hjm-melodium
+Himmlischer Melodienmacher
+hjm-symphonium
 Symphonium
 hjm-proto_sun
 Protosonne
@@ -168,16 +168,6 @@ hjm-menger_sponge_l3
 Stufe 3 Menger Schwamm\n\nEine metallische Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
-vks-sybill_starleaf
-Sybill Sternblatt\n\nDas seltene Sybill Sternblatt blüht nur zwei mal in seinem Leben, dafür aber um so prächtiger.\n
-hjm-orangecherry
-Funkelkirschenbaum\n\nEin mittelhoher Baum mit einer ausladenden Krone. Kristallzuckerkirschen funkeln einladend zwischen den Blättern. Dein Zahnarzt hat dich gewarnt!\n
-Tree1
-Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
-Tree2
-Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
-Tree3
-Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
 hjm-bluespike
 Blauspitze\n\nDie Blauspitze ist eine kristalline Struktur, die hier die Rolle übernimmt, die üblicherwiese Pflanzen innehaben.\n
 hjm-spire
@@ -190,6 +180,10 @@ hjm-ochre_spots
 Ockerflecken.\n
 hjm-mushroom_patch_1
 Eine Gruppe kleiner Pilze.\n
+hjm-rainbow_jewel
+Regenbogenjuwel\n
+hjm-cell_1
+Großer Zuckerwattebusch\n
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 #____________________________________vehicle____________________________________
@@ -216,8 +210,8 @@ hjm-eggson
 Renaht Kraftei
 hjm-meloporter
 Renaht Melodienwagen
-hjm-powernut
-Renaht Kraftnuss
+hjm-troubador
+Renaht Musikträger
 hjm-sparkporter
 LUC Funkenroller
 hjm-quantcontainer
@@ -226,7 +220,7 @@ hjm-sunbringer
 Zeus Sonnenscheibe
 #______________________________________way______________________________________
 #______________________________________way______________________________________
-hjm-powertrack
+hjm-powertrail
 Kraftspur\n\nGefertigt aus blaurotem Metall kann die Kraftspur Fahrzeuge anheben und vorwärts bewegen. Statt links und rechts fließt der Verkehr hier in zwei Stockwerken übereinander.
 hjm-powertrack_speedlane
 Schnellspur
