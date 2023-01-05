@@ -1,3 +1,7 @@
+r007
+
+- Lightning signals
+
 r006
 
 - Two more residential city buildings
