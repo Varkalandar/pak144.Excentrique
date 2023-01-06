@@ -1,6 +1,7 @@
 r007
 
 - Lightning signals
+- Menger sponges as sights
 
 r006
 
@@ -26,4 +27,5 @@ r005
 - Added some missing language entries (English and German)
 
 r004 and before
+
 - no changes tracked

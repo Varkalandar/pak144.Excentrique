@@ -1,4 +1,4 @@
-# Simutrans pak48.Excentrique texts
+# Simutrans pak144.Excentrique texts
 #
 # --- Hajo: Testing overrides ---
 # --- Hajo: Testing overrides ---
@@ -167,9 +167,9 @@ Helle Kristallstruktur\n\nEine uralte, gewachsene Struktur aus leuchtenden Krist
 hjm-embassy
 Verlassene Botschaft\n\nDieses Bauwerk war einst eine Botschaft, ist aber seit einiger Zeit verwaist.
 hjm-menger_sponge
-Stufe 2 Menger Schwamm\n\nEine metallische Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
-hjm-menger_sponge_l3
-Stufe 3 Menger Schwamm\n\nEine metallische Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
+Stufe 1 Menger Schwamm\n\nEine steinerne Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
+hjm-menger_sponge_lv2
+Stufe 2 Menger Schwamm\n\nEine steinerne Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
 hjm-bluespike

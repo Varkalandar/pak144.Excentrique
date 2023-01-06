@@ -1,4 +1,4 @@
-# Simutrans pak48.Excentrique texts
+# Simutrans pak144.Excentrique texts
 #
 # --- Hajo: Testing overrides ---
 # --- Hajo: Testing overrides ---
@@ -219,9 +219,9 @@ Light Crystal Splinter Plant\n\nAn ancient growths of shining crystal splinters,
 hjm-embassy
 Disused Embassy\n\nThis building formerly was used as an embasses, but has been unused and empty since a while.
 hjm-menger_sponge
-Level 2 Menger Sponge\n\nA metallic cube which has formed by chance in a carved, fractal-like structure.
-hjm-menger_sponge_l3
-Level 3 Menger Sponge\n\nA metallic cube which has formed by chance in a carved, fractal-like structure.
+Level 1 Menger Sponge\n\nA lithic cube which has formed by chance in a carved, fractal-like structure.
+hjm-menger_sponge_lv2
+Level 2 Menger Sponge\n\nA lithic cube which has formed by chance in a carved, fractal-like structure.
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
 hjm-bluespike
