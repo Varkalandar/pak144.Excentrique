@@ -9,7 +9,7 @@ PAKDIR   ?= $(DESTDIR)/pak144.Excentrique
 ADDONDIR ?= $(DESTDIR)/addons/pak144.Excentrique
 PAKVERSION ?= 07
 DESTFILE ?= pak144.Excentrique_v0$(PAKVERSION)
-INSTALL ?= ../../simutrans/pak144.Excentrique
+INSTALL ?= ~/simutrans/paksets/pak144.Excentrique
 
 OUTSIDE :=
 OUTSIDE += src/ground
@@ -57,7 +57,6 @@ zip: $(DESTFILE).zip
 release: clean copy $(DIRS)
 	mkdir -p $(INSTALL)
 	rm -rf $(INSTALL)/*
-	cp index.png $(INSTALL)
 	mv $(PAKDIR)/* $(INSTALL)
 
 
@@ -104,6 +103,7 @@ version:
 	@echo "copyright=pak144.Excentrique v0.$(PAKVERSION)" >>src/ground/outside.dat
 	@echo "Image[0][0]=hjm-starpatch.0.0" >>src/ground/outside.dat
 	@echo "----------" >>src/ground/outside.dat
+	@echo "$(PAKVERSION)" >version.txt
 
 $(OUTSIDE):
 	@$(MAKEOBJ) PAK144 $(PAKDIR)/ $@/ > /dev/null
