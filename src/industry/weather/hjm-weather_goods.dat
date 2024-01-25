@@ -1,0 +1,15 @@
+#
+# Weather industry goods for Simutrans pak144.Excentrique
+#
+# author: Hj. Malthaner
+#
+-----------------------
+obj=good
+name=canned_sunshine
+metric=
+catg=0
+value=50
+speed_bonus=2
+weight_per_unit=5
+-----------------------
+
