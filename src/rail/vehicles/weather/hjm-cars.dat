@@ -1,0 +1,33 @@
+#
+# Weather transporters
+#
+# author: Hj. Malthaner
+#
+# created:  2024/01/25
+# update:   2024/01/25
+#
+obj=vehicle
+name=hjm-solarjar
+copyright=HjM
+waytype=track
+freight=canned_sunshine
+payload=5
+speed=120
+cost=50000
+weight=12
+length=8
+RunningCost=7
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+EmptyImage[W]=hjm-solarjar.0.1
+EmptyImage[S]=hjm-solarjar.0.0
+EmptyImage[E]=hjm-solarjar.0.1
+EmptyImage[N]=hjm-solarjar.0.0
+EmptyImage[SE]=hjm-solarjar.1.0
+EmptyImage[NW]=hjm-solarjar.1.0
+EmptyImage[NE]=hjm-solarjar.0.2
+EmptyImage[SW]=hjm-solarjar.0.2
+-----------------------
+

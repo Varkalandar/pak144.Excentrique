@@ -6,7 +6,7 @@
 -----------------------
 obj=good
 name=canned_sunshine
-metric=
+metric=jars
 catg=0
 value=50
 speed_bonus=2

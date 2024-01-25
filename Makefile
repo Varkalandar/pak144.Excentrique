@@ -29,6 +29,7 @@ DIRS144 += src/rail
 DIRS144 += src/rail/bridges
 DIRS144 += src/rail/vehicles
 DIRS144 += src/rail/vehicles/music
+DIRS144 += src/rail/vehicles/weather
 DIRS144 += src/tree
 DIRS144 += src/decoration
 DIRS144 += src/curiosities
