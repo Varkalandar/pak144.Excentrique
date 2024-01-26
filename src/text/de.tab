@@ -100,7 +100,7 @@ hjm-symphonium
 Symphonium
 hjm-proto_sun
 Protosonne
-hjm-weather_mixer
+hjm-weather_coil
 Wettermischer
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
@@ -118,8 +118,10 @@ melodies
 Melodien
 rain
 Regen
-sunshine
-Sonnenschein
+proto_sunshine
+Proto Sonnenschein
+jars
+ Gläser
 #_____________________________________groundobj______________________________________
 #_____________________________________groundobj______________________________________
 hjm-rock_1
