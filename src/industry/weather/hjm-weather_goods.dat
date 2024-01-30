@@ -12,4 +12,16 @@ value=50
 speed_bonus=2
 weight_per_unit=5
 -----------------------
+obj=good
+name=cloud_cores
+metric=
+catg=0
+value=50
+speed_bonus=2
+weight_per_unit=8
+-----------------------
+
+
+
+
 
