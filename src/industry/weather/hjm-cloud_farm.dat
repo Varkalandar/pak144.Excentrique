@@ -15,7 +15,7 @@ mail_boost=0
 passenger_demand=15
 needs_ground=1
 intro_year=1
-climates=mediterran,temperate,tundra
+climates=tropic,mediterran,temperate,tundra,rocky
 #field data (now part of factory)
 start_fields=15
 max_fields=30
