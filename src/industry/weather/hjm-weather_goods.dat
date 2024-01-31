@@ -9,15 +9,15 @@ name=proto_sunshine
 metric=jars
 catg=0
 value=50
-speed_bonus=2
+speed_bonus=4
 weight_per_unit=5
 -----------------------
 obj=good
 name=cloud_cores
 metric=
 catg=0
-value=50
-speed_bonus=2
+value=150
+speed_bonus=0
 weight_per_unit=8
 -----------------------
 
