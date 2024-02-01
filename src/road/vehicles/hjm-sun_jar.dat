@@ -1,0 +1,48 @@
+#
+# Sun Jar
+#
+# author: Hj. Malthaner
+#
+# created:  2024/02/01
+#
+
+obj=vehicle
+name=hjm-auto_sun_jar
+copyright=HjM
+waytype=road
+freight=proto_sunshine
+payload=8
+speed=80
+cost=160000
+weight=20
+length=8
+power=400
+RunningCost=80
+# Sound=1
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+
+#
+# Cannot be grouped after another vehicle in a convoi.
+#
+Constraint[Prev][0]=none
+
+EmptyImage[W]=hjm-sun_jar.0.1
+EmptyImage[S]=hjm-sun_jar.0.0
+EmptyImage[E]=hjm-sun_jar.0.3
+EmptyImage[N]=hjm-sun_jar.0.2
+EmptyImage[SE]=hjm-sun_jar.1.3
+EmptyImage[NW]=hjm-sun_jar.1.1
+EmptyImage[NE]=hjm-sun_jar.1.2
+EmptyImage[SW]=hjm-sun_jar.1.0
+
+FreightImage[W]=hjm-sun_jar_freight.0.1
+FreightImage[S]=hjm-sun_jar_freight.0.0
+FreightImage[E]=hjm-sun_jar_freight.0.3
+FreightImage[N]=hjm-sun_jar_freight.0.2
+FreightImage[SE]=hjm-sun_jar_freight.1.3
+FreightImage[NW]=hjm-sun_jar_freight.1.1
+FreightImage[NE]=hjm-sun_jar_freight.1.2
+FreightImage[SW]=hjm-sun_jar_freight.1.0
