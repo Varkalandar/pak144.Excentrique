@@ -1,3 +1,8 @@
+r008
+
+- Rainmaker
+- Rain jars
+
 r007
 
 - Lightning signals
