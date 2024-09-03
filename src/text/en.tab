@@ -156,6 +156,10 @@ hjm-weather_coil
 Weather Mixer
 hjm-cloud_farm
 Cloud Farm
+hjm-rainmaker
+Rain Maker
+hjm-windmaker
+Turbofan Vortex
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 Passagiere
@@ -178,6 +182,10 @@ jars
  jars
 cloud_cores
 Cloud Seeds
+rain_megadrops
+Rain Megadrops
+heavy_gusts
+Heavy Gusts
 #_____________________________________groundobj______________________________________
 #_____________________________________groundobj______________________________________
 hjm-rock_1
@@ -288,6 +296,10 @@ hjm-cloud_bowl
 Cloud Bowl
 hjm-powersnail
 Renaht Powersnail
+hjm-windbag
+Wind Bag
+hjm-rainjar
+Megadrop Carrier
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 hjm-powertrail

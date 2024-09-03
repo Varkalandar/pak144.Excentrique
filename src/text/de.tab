@@ -104,6 +104,10 @@ hjm-weather_coil
 Wettermischer
 hjm-cloud_farm
 Wolkenfarm
+hjm-rainmaker
+Regenmacher
+hjm-windmaker
+Turbodüsenwirbler
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 Passagiere
@@ -126,6 +130,10 @@ jars
  Gläser
 cloud_cores
 Wolkenkerne
+rain_megadrops
+Riesenregentropfen
+heavy_gusts
+Heftige Böen
 #_____________________________________groundobj______________________________________
 #_____________________________________groundobj______________________________________
 hjm-rock_1
@@ -236,6 +244,10 @@ hjm-cloud_bowl
 Wolkenschale
 hjm-powersnail
 Renaht Kraftschnecke
+hjm-windbag
+Windbeutel
+hjm-rainjar
+Riesentropfenträger
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 hjm-powertrail
