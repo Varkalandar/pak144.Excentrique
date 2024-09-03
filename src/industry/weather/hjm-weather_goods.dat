@@ -28,8 +28,12 @@ value=40
 speed_bonus=0
 weight_per_unit=20
 -----------------------
-
-
-
-
+obj=good
+name=heavy_gusts
+metric=
+catg=0
+value=40
+speed_bonus=0
+weight_per_unit=10
+-----------------------
 
